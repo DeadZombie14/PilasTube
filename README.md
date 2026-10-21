@@ -1,4 +1,10 @@
 <p align="center">
+  <a href="https://ko-fi.com/josepilas" target="_blank" rel="noopener noreferrer">
+    <img src="https://josepilas.github.io/kofi.webp" alt="Ko-fi" width="300" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://i.ibb.co/KpgkcBNv/zezimmamaer.webp" alt="PilasTube" width="1086">
 </p>
 
